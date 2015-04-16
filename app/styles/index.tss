@@ -1,7 +1,7 @@
 ".window" :{
 	backgroundColor: '#fff',
 	barColor: '#50afe6',
-	statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT
+	/*statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT TODO : add this property for iOS target only. */
 },
 
 ".window[platform=ios]": {
